@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/norahalshaikhmubarak/Downloads/BeYourOwnTutor/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/norahalshaikhmubarak/Downloads/BeYourOwnTutor/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_99fc4a73258abad9dc9d93123401457c7ebabe56.jar" />
+    </item>
+    <item
+        jar="/Users/norahalshaikhmubarak/Downloads/BeYourOwnTutor/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/norahalshaikhmubarak/Downloads/BeYourOwnTutor/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_c00a3834a79b76a8c0c15d0852fa32429b61d843.jar" />
+    </item>
+    <item
+        jar="/Users/norahalshaikhmubarak/Downloads/BeYourOwnTutor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/norahalshaikhmubarak/Downloads/BeYourOwnTutor/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_2a342d986760bd1505ee5a2999b95361f06668d3.jar" />
+    </item>
+    <item
+        jar="/Users/norahalshaikhmubarak/Downloads/BeYourOwnTutor/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/norahalshaikhmubarak/Downloads/BeYourOwnTutor/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_c882c2ba85c0e9bc5817722c0a27020429cf93a0.jar" />
+    </item>
+    <item
+        jar="/Users/norahalshaikhmubarak/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/norahalshaikhmubarak/Downloads/BeYourOwnTutor/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_9af57599f6b5143c085c63ac3aa677208f4aa332.jar" />
+    </item>
+    <item
+        jar="/Users/norahalshaikhmubarak/Downloads/BeYourOwnTutor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/norahalshaikhmubarak/Downloads/BeYourOwnTutor/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_16b318a3f9c3d37f4ee214dc49be05e60682b397.jar" />
+    </item>
+    <item
+        jar="/Users/norahalshaikhmubarak/Downloads/BeYourOwnTutor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/norahalshaikhmubarak/Downloads/BeYourOwnTutor/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_cdf5bbf7aa023612a5c6aba9f7e85e94f9171878.jar" />
+    </item>
+    <item
+        jar="/Users/norahalshaikhmubarak/Downloads/BeYourOwnTutor/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/norahalshaikhmubarak/Downloads/BeYourOwnTutor/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_903fb52729e7d870b2f67d780d87d6b4d230151f.jar" />
+    </item>
+
+</items>
