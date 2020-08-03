@@ -1,1 +1,1 @@
-
+Be your own tutor is an android application designed to meet the autism children needs such as the user can use the app to read phrases, listen to the phrases, and visualize the pictures, all relating to the same word in order for them to develop a learning process on their own. This application was developed during the second national programming competition.
